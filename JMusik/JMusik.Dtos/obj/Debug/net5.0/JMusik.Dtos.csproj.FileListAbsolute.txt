@@ -1,0 +1,12 @@
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\bin\Debug\net5.0\JMusik.Dtos.deps.json
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\bin\Debug\net5.0\JMusik.Dtos.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\bin\Debug\net5.0\ref\JMusik.Dtos.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\bin\Debug\net5.0\JMusik.Dtos.pdb
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\JMusik.Dtos.csproj.AssemblyReference.cache
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\JMusik.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\JMusik.Dtos.AssemblyInfoInputs.cache
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\JMusik.Dtos.AssemblyInfo.cs
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\JMusik.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\JMusik.Dtos.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\ref\JMusik.Dtos.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Dtos\obj\Debug\net5.0\JMusik.Dtos.pdb

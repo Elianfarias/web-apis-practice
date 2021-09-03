@@ -1,0 +1,12 @@
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\bin\Debug\net5.0\JMusik.Models.deps.json
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\bin\Debug\net5.0\JMusik.Models.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\bin\Debug\net5.0\ref\JMusik.Models.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\bin\Debug\net5.0\JMusik.Models.pdb
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\JMusik.Models.csproj.AssemblyReference.cache
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\JMusik.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\JMusik.Models.AssemblyInfoInputs.cache
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\JMusik.Models.AssemblyInfo.cs
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\JMusik.Models.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\JMusik.Models.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\ref\JMusik.Models.dll
+C:\Users\Elian\Documents\repos\Web-Apis-Practice\JMusik\JMusik.Models\obj\Debug\net5.0\JMusik.Models.pdb

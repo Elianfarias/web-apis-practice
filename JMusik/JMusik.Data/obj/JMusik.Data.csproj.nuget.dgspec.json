@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Data\\JMusik.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Data\\JMusik.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Data\\JMusik.Data.csproj",
+        "projectName": "JMusik.Data",
+        "projectPath": "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Data\\JMusik.Data.csproj",
+        "packagesPath": "C:\\Users\\Elian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Models\\JMusik.Models.csproj": {
+                "projectPath": "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Models\\JMusik.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Models\\JMusik.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Models\\JMusik.Models.csproj",
+        "projectName": "JMusik.Models",
+        "projectPath": "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Models\\JMusik.Models.csproj",
+        "packagesPath": "C:\\Users\\Elian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elian\\Documents\\repos\\Web-Apis-Practice\\JMusik\\JMusik.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Elian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
