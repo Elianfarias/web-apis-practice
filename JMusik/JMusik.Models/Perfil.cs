@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 #nullable disable
 
-namespace JMusik.Data
+namespace JMusik.Models
 {
-    public partial class Perfil
+    public class Perfil
     {
         public Perfil()
         {

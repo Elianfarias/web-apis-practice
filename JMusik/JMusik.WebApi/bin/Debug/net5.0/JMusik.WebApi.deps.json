@@ -1309,6 +1309,7 @@
       },
       "JMusik.Data/1.0.0": {
         "dependencies": {
+          "JMusik.Models": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9"
         },
         "runtime": {
@@ -1316,6 +1317,14 @@
         },
         "compile": {
           "JMusik.Data.dll": {}
+        }
+      },
+      "JMusik.Models/1.0.0": {
+        "runtime": {
+          "JMusik.Models.dll": {}
+        },
+        "compile": {
+          "JMusik.Models.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3685,6 +3694,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "JMusik.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JMusik.Models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

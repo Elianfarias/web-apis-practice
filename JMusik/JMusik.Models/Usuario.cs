@@ -1,11 +1,12 @@
-﻿using System;
+﻿using JMusik.Models.Enum;
+using System;
 using System.Collections.Generic;
 
 #nullable disable
 
-namespace JMusik.Data
+namespace JMusik.Models
 {
-    public partial class Usuario
+    public class Usuario
     {
         public Usuario()
         {
@@ -18,7 +19,7 @@ namespace JMusik.Data
         public string Email { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
-        public int Estatus { get; set; }
+        public EstatusUsuario Estatus { get; set; }
         public int PerfilId { get; set; }
 
         public virtual Perfil Perfil { get; set; }

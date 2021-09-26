@@ -12,4 +12,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JMusik.Models\JMusik.Models.csproj" />
+  </ItemGroup>
+
 </Project>

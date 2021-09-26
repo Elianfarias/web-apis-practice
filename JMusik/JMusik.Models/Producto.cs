@@ -1,11 +1,12 @@
-﻿using System;
+﻿using JMusik.Models.Enum;
+using System;
 using System.Collections.Generic;
 
 #nullable disable
 
-namespace JMusik.Data
+namespace JMusik.Models
 {
-    public partial class Producto
+    public class Producto
     {
         public Producto()
         {
@@ -15,7 +16,7 @@ namespace JMusik.Data
         public int Id { get; set; }
         public string Nombre { get; set; }
         public decimal Precio { get; set; }
-        public int Estatus { get; set; }
+        public EstatusProducto Estatus { get; set; }
         public DateTime FechaRegistro { get; set; }
 
         public virtual ICollection<DetalleOrden> DetalleOrdens { get; set; }
